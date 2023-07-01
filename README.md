@@ -1,5 +1,8 @@
 # Student Loan Disbursements | Method
 
+<img width="381" alt="image" src="https://github.com/aslanshaken/method/assets/62974285/c9b97070-7323-41ea-adf0-50dbb6fc922b">
+
+
 ### Technologies
 Next | TypeScript | MUI | Prisma
 
